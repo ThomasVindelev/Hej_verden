@@ -7,5 +7,5 @@ public class Main {
 
     }
 
-    hejhej;
+    String hejhej;
 }
